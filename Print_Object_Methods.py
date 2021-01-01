@@ -1,6 +1,8 @@
 # Snippets of code that are useful
 
 '''
+>> PRINT ALL THE METHODS WITHIN THE OBJECT <<
+
 Very simply and useful tool for inspecting modules with very little documentation.
 Enter the object into the parameter and execute.
 '''
